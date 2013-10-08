@@ -25,7 +25,7 @@ as the front line programming language, but there is any limit nor any commitmen
 another a priori. 
 There are lots of of "hammer" donne in 
 - R (http://cran.r-project.org/)
-- python(www.python.org), matplotlib()
+- python(www.python.org), http://matplotlib.org/)
 - ipython(www.ipython.org),  
 - octave (www.gnu.org/software/octave/), 
 - C (http:gcc.gnu.org, http://llvm.org/), 

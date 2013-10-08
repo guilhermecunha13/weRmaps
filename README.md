@@ -28,7 +28,7 @@ There are lots of of "hammer" donne in
 - python(www.python.org), matplotlib()
 - ipython(www.ipython.org),  
 - octave (www.gnu.org/software/octave/), 
-- C (gcc.gnu.org, http://llvm.org/), 
+- C (http:gcc.gnu.org, http://llvm.org/), 
 - Ruby (https://www.ruby-lang.org/), 
 - Erlang (www.erlang.org),
 - Haskell (http://www.haskell.org/haskellwiki/Haskell),
